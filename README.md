@@ -76,11 +76,11 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/usaid-abbasi-911128306/?skipRedirect=true">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto: usaidabbai85@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
