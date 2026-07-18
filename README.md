@@ -44,15 +44,7 @@
 
 
 
-## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🚀 Current Journey
 
