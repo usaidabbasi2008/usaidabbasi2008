@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Usaid Abbasi</h1>
 
 <h3 align="center">
-💻 Aspiring Full Stack Web Developer | React Developer | Frontend Specialist
+💻 Aspiring Full Stack Web Developer | next.js Developer | Frontend Specialist
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Learning+Backend;Future+Full+Stack+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;next.js+Developer;Learning+Backend;Future+Full+Stack+Developer;Always+Learning+New+Things+🚀" />
 </p>
 
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFmbWwyeGkycTRzeHB3YzlnNmhzNG5nczF0Y3JmaWNiYzRsNWs4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> </p>
@@ -15,7 +15,7 @@
 
 - 🌱 Currently learning **Backend Development**
 - 💻 Frontend Developer passionate about building responsive websites
-- ⚛️ Love working with React.js
+- ⚛️ Love working with next.js
 - 🎯 Goal: Become a Professional Full Stack Web Developer
 - 📚 Learning every day and improving my coding skills
 - ⚡ Fun Fact: I love turning ideas into beautiful web experiences.
@@ -54,6 +54,7 @@
 ✅ JavaScript
 ✅ Bootstrap
 ✅ React.js
+✅ next.js
 ✅ Git
 ✅ GitHub
 🟡 Backend Development
